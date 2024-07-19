@@ -1,6 +1,7 @@
 {
   "name": "peach-clicker",
   "version": "0.1.0",
+  "homepage": "https://Fonerge.github.io/peach.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
