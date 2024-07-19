@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/peach.github.io/static/css/main.9edf6676.css",
+    "main.js": "/peach.github.io/static/js/main.7edf225b.js",
+    "static/media/peach_pic.png": "/peach.github.io/static/media/peach_pic.aab758ded686fc80c79b.png",
+    "index.html": "/peach.github.io/index.html",
+    "main.9edf6676.css.map": "/peach.github.io/static/css/main.9edf6676.css.map",
+    "main.7edf225b.js.map": "/peach.github.io/static/js/main.7edf225b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9edf6676.css",
+    "static/js/main.7edf225b.js"
+  ]
+}
